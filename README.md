@@ -1,6 +1,8 @@
 # dca
 Decision Curve Analysis (DCA) Use dca With STATA 18
 
+https://www.youtube.com/watch?v=ACAvXrLwHS0
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
